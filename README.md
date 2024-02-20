@@ -1,1 +1,8 @@
 # Yoldass
+
+Open Android Studio: If you don't have Android Studio installed, you can download and install it from the official website.Open the Project: After opening Android Studio, go to the "File" menu, choose "Open," or "Open an Existing Project," and select your project.Check Project Settings: Once the project is open, in the top right corner, select the "Build Variants" section and choose the appropriate configuration for your project. Typically, the "debug" option is preferred.Select Device or Create Virtual Device: You can run the project on a physical device or create a virtual device. Choose "Run" from the menu and select "Run 'app'" or use the green play button on the toolbar to proceed.Wait and Observe: After the compilation process is complete, Android Studio will run your application on the chosen device or virtual device. This process may take some time.
+
+
+
+
+Android Studio'yu Aç: Bilgisayarında Android Studio yüklü değilse resmi web sitesinden indirip yükleyebilirsin.Projeyi Aç: Android Studio'yu açtıktan sonra "File" menüsünden "Open" veya "Open an Existing Project" seçeneğini kullanarak projeni bul ve aç.Proje Ayarlarını Kontrol Et: Projeyi açtıktan sonra, sağ üst köşede bulunan "Build Variants" bölümünden projenin uygun yapılandırmasını seç. Genellikle "debug" seçeneği tercih edilir.Cihazı Seç veya Sanal Cihaz Oluştur: Projeyi bir fiziksel cihazda veya sanal bir cihazda çalıştırabilirsin. "Run" menüsünden "Run 'app'" seçeneğini seçerek ya da toolbar'daki yeşil oynatma düğmesini kullanarak bu adımı gerçekleştirebilirsin.Bekle ve İzle: Android Studio, derleme işlemi tamamlandıktan sonra uygulamayı cihazda veya sanal cihazda çalıştıracaktır. Bu süreç biraz zaman alabilir.
